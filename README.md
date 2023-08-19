@@ -11,12 +11,12 @@ Feel free to copy/improve adapt to your needs.
 
 Steps :
 
-1. Copy the markup markup containing a single select element
+1. Copy the markup containing a single select element
 
 2. Paste it into the first textarea.
 
 3. Click on the second textarea to automatically select and copy the choices for use in ACF.
 
-4. Use them to set up your ACF field.
+4. Use the choices to set up your ACF select field, as usual.
 
 Any questions, feel free to reach out: mail@robindarlington.com
