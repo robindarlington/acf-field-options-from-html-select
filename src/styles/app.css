@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply container mx-auto;
+}
+
+h1 {
+  @apply text-3xl;
+}
+
+header {
+  @apply w-full py-8 text-center;
+}
+
+.row {
+  @apply grid grid-cols-2 gap-4 w-full;
+}
+
+.col p {
+  @apply text-center p-4;
+}
+
+.col textarea {
+  @apply w-full border-2 border-solid;
+  min-height: 50vh;
+}
